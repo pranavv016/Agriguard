@@ -1,28 +1,3 @@
-# AgriGuard AI — GitHub Pages Multi-page Version
-
-The static frontend is deliberately at repository root so GitHub Pages can serve it correctly.
-
-English:
-- index.html
-- disease.html
-- soil.html
-- market.html
-- crops.html
-- voice.html
-
-Hindi:
-- hi/index.html
-- hi/disease.html
-- hi/soil.html
-- hi/market.html
-- hi/crops.html
-- hi/voice.html
-
-Assets:
-- css/style.css
-- js/app.js
-- js/disease-data.js
-
-For GitHub Pages use Settings → Pages → Deploy from branch → main → /(root).
-
-The FastAPI backend remains in backend/ and can later be deployed separately on Render.
+Soil defaults in this prototype are illustrative placeholders.
+Do not present them as exact official district averages until verified against an authoritative public government dataset.
+The OCR portal is intended to read a farmer's actual Soil Health Card image.
